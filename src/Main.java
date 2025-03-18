@@ -21,8 +21,7 @@ public class Main {
         soldier.reloadCurrentGun(5);
         soldier.shoot();
         
-        //Drop a gun and try shooting
+        //Drop a gun
         soldier.dropGun(1);
-        soldier.shoot();
     }
 }
