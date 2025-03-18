@@ -1,6 +1,6 @@
 # README.md
 
-# Soldier Simulation 
+# Simulation code Hierarchy  
 
     │── src/
 
