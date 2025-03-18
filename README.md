@@ -1,6 +1,6 @@
 # README.md
 
-# Simulation code Hierarchy  
+# Simulation of code Hierarchy  
 
     │── src/
 
